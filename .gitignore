@@ -1,0 +1,5 @@
+# Compiled files #
+*.class
+
+# Input text files #
+*.txt
