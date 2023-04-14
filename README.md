@@ -7,7 +7,7 @@ Running the program
 -------------------
     javac Bill.java && java Bill [input file] [cost per min in double]
 
-###Example
+### Example
     javac Bill.java && java Bill items.txt 0.4
 
 Run the application with items.txt as the input file and 0.4 as the cost of using 1 minute.
@@ -16,7 +16,8 @@ Items file
 ----------
 The items file is the input for this program. It consists of the timings for each phone call. 
 
-###Example
+### Example
+
     30
     1.52
     5.23
